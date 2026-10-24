@@ -1,0 +1,4 @@
+recordings/
+__pycache__/
+# legacy libinput record output
+*.yml
